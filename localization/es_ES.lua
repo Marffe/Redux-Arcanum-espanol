@@ -265,8 +265,8 @@ return {
                 name = "Baraja Herbalista",
                 text = {
                     "Comienzas con el vale",
-                    "{C:tarot,T:v_ReduxArcanum_mortar_and_pestle}Mortero y Pilón{},",
-                    "Obtienes una carta de {C:alchemical}Alquimia{} al",
+                    "{C:tarot,T:v_ReduxArcanum_mortar_and_pestle}Mortero y Pilón{}. Obtienes",
+                    "una carta de {C:alchemical}Alquimia{} al",
                     "seleccionar la {C:attention}Ciega Jefe"
                 },
                 unlock = {
@@ -442,8 +442,8 @@ return {
                 name = "Funda Herbalista",
                 text = {
                     "Comienzas con el vale",
-                    "{C:tarot,T:v_ReduxArcanum_mortar_and_pestle}Mortero y Pilón{},",
-                    "Obtienes una carta de {C:alchemical}Alquimia{} al",
+                    "{C:tarot,T:v_ReduxArcanum_mortar_and_pestle}Mortero y Pilón{}. Obtienes",
+                    "una carta de {C:alchemical}Alquimia{} al",
                     "seleccionar la {C:attention}Ciega Jefe"
                 }
             },
@@ -451,7 +451,7 @@ return {
                 name = "Funda Herbalista",
                 text = {
                     "También comienzas con el vale",
-                    "{C:tarot,T:v_ReduxArcanum_cauldron}Caldero{},",
+                    "{C:tarot,T:v_ReduxArcanum_cauldron}Caldero{}, Obtienes",
                     "Obtienes una carta de {C:alchemical}Alquimia{} al",
                     "seleccionar la {C:attention}Ciega Jefe"
                 }
@@ -477,8 +477,8 @@ return {
             c_ReduxArcanum_seeker = {
                 name = 'La Buscadora',
                 text = {
-                    "Genera hasta {C:attention}#1#{}",
-                    "cartas de {C:alchemical}Alquimia{} al azar",
+                    "Genera hasta {C:attention}#1#{} cartas",
+                    "de {C:alchemical}Alquimia{} al azar",
                     "{C:inactive}(Debe haber espacio)",
                 }
             }
